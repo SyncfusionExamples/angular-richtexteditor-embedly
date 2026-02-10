@@ -1,5 +1,6 @@
-# angular-richtexteditor-embedly
-An example demonstration of the EJ2 Angular Rich Text Editor with the Embedly.
+# Angular Rich Text Editor — Embedly Sample
+
+This repository is a minimal Angular sample showing integration of embedly with the EJ2 Angular Rich Text Editor.
 
 ## Quick start
 
