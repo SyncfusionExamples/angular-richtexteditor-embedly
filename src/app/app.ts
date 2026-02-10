@@ -24,7 +24,7 @@ export class App implements AfterViewInit {
         items: ['createLink']
     };
     public actionComplete(args: any): void {
-        if (<String>args.requestType === 'Links') {
+        if (args.requestType === 'Links') {
             const rteContent = document.querySelector('.e-rte-content');
             if (!rteContent) {
                 return;
