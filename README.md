@@ -1,2 +1,30 @@
-# angular-richtexteditor-embedly
-An example demonstration of the EJ2 Angular Rich Text Editor with the Embedly.
+# Angular Rich Text Editor — Embedly Sample
+
+This repository is a minimal Angular sample showing integration of embedly with the EJ2 Angular Rich Text Editor.
+
+## Quick start
+
+Prerequisites:
+
+- Node.js 20.x (recommended) and Also supported: Node.js 22.x or 24.x
+- npm
+
+Install dependencies and run the app:
+
+```bash
+npm install
+ng serve
+```
+
+Open http://localhost:4200/ in your browser.
+
+## What this sample shows
+
+- How to include the Rich Text Editor in an Angular component
+- How to enable/configure the Embedly integration (see Integration UG link for exact steps)
+
+## References
+
+- **Integration UG**: [Embedly Integration with Angular Rich Text Editor](https://ej2.syncfusion.com/angular/documentation/rich-text-editor/integrations/embedly)
+- **Documentation** - [Getting Started](https://ej2.syncfusion.com/angular/documentation/rich-text-editor/getting-started)
+- **Full Featured Demo**: [Angular Rich Text Editor Overview sample](https://ej2.syncfusion.com/angular/demos/#/tailwind3/rich-text-editor/tools)
